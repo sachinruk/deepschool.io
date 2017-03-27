@@ -1,6 +1,7 @@
 # Deep Learning Tutorials
 
 The lessons will cover the fundamentals of deep learning.
+
 0. Lesson 0: Introduction to regression.
 1. Lesson 1: Penalising weights to fit better (scikit learn intro)
 2. Lesson 2: Gradient Descent. Using basic optimisation methods.
