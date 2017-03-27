@@ -24,9 +24,11 @@ RUN conda install -y \
     pandas \
   && conda clean --yes --tarballs --packages --source-cache
 
-RUN conda install -yc conda-forge theano
-RUN conda install -yc conda-forge keras
-RUN conda install -yc conda-forge tensorflow
+RUN conda config --append channels conda-forge
+
+RUN conda install -y theano \
+                     tensorflow \
+                     keras
 
 VOLUME /notebook
 WORKDIR /notebook
