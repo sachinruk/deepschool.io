@@ -17,7 +17,6 @@ Use the following commands to run from docker.
 ```
 git clone git@github.com:sachinruk/ml_class.git
 cd ml_class
-docker build -t kerasimage .
-docker run -d -p 8888:8888 -e KERAS_BACKEND=theano -v ${PWD}:/notebook kerasimage
+docker-compose up
 ```
 Now go to `localhost:8888` on your browser to start using the jupyter notebooks.
