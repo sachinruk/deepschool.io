@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+
+  app:
+    build: .
+    volumes:
+      - ./:/notebook
+    environment:
+      KERAS_BACKEND: theano
+    ports:
+      - 8888:8888
