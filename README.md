@@ -17,6 +17,7 @@ Use the following commands to run from docker.
 ```
 git clone git@github.com:sachinruk/ml_class.git
 cd ml_class
+docker-compose build
 docker-compose up
 ```
 Now go to `localhost:8888` on your browser to start using the jupyter notebooks.

@@ -30,6 +30,9 @@ RUN conda install -y theano \
                      tensorflow \
                      keras
 
+RUN apt-get update && apt-get install -y graphviz
+RUN pip install graphviz xgboost
+
 VOLUME /notebook
 WORKDIR /notebook
 EXPOSE 8888
