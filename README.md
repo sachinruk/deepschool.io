@@ -11,8 +11,8 @@
 1. Install Docker https://www.docker.com/
 2. Use the following commands to run from docker<sup>[1](#myfootnote1)</sup>.
 ```
-git clone git@github.com:sachinruk/ml_class.git
-cd ml_class
+git clone git@github.com:sachinruk/deepschool.io.git
+cd deepschool.io
 docker-compose up --build
 ```
 3. Now go to `localhost:8888` on your browser to start using the jupyter notebooks.
@@ -35,6 +35,7 @@ The lessons will cover the fundamentals of deep learning.
 10. Lesson 10: XGBoost - A quick detour from Deep Learning
 11. Lesson 11: Convolutional Neural Nets (MNIST dataset)
 12. Lesson 12: CNNs and BatchNormalisation (CIFAR10 dataset)
+13. Lesson 13: Transfer Learning (Dogs vs Cats dataset)
 
 ### Notes
 <a name="myfootnote1">1</a>: Refer to this [Dockerfile](https://github.com/sachinruk/Dockerfiles/blob/master/ML_class/Dockerfile) and [this](https://github.com/sachinruk/Dockerfiles/blob/master/DS_base/Dockerfile) for information on how the docker image was built.
