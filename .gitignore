@@ -1,2 +1,9 @@
 .ipynb_checkpoints/
 .DS_*
+*.npy
+catdog/
+*.npy
+catdog/
+*.zip
+*.tar
+
