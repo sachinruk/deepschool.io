@@ -36,6 +36,13 @@ The lessons will cover the fundamentals of deep learning.
 11. Lesson 11: Convolutional Neural Nets (MNIST dataset)
 12. Lesson 12: CNNs and BatchNormalisation (CIFAR10 dataset)
 13. Lesson 13: Transfer Learning (Dogs vs Cats dataset)
+#### Advanced Topics
+14. Lesson 14: LSTMs - Shakespeare
+15. Lesson 15: Trump Tweets - Stacking and Stateful LSTMs.
+
+## Meetup
+First meetup node:
+https://www.meetup.com/DeepSchool-io/
 
 ### Notes
 <a name="myfootnote1">1</a>: Refer to this [Dockerfile](https://github.com/sachinruk/Dockerfiles/blob/master/ML_class/Dockerfile) and [this](https://github.com/sachinruk/Dockerfiles/blob/master/DS_base/Dockerfile) for information on how the docker image was built.
