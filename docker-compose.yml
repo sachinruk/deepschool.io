@@ -7,6 +7,6 @@ services:
     volumes:
       - ./:/notebook
     environment:
-      KERAS_BACKEND: theano
+      KERAS_BACKEND: tensorflow
     ports:
-      - 8888:8888
+      - 9000:8888
