@@ -15,7 +15,7 @@ git clone git@github.com:sachinruk/deepschool.io.git
 cd deepschool.io
 docker-compose up --build
 ```
-3. Now go to `localhost:8888` on your browser to start using the jupyter notebooks.
+3. Now go to `localhost:9000` on your browser to start using the jupyter notebooks.
 
 ### Contents
 The lessons will cover the fundamentals of deep learning.
@@ -38,11 +38,16 @@ The lessons will cover the fundamentals of deep learning.
 13. Lesson 13: Transfer Learning (Dogs vs Cats dataset)
 #### Advanced Topics
 14. Lesson 14: LSTMs - Shakespeare
-15. Lesson 15: Trump Tweets - Stacking and Stateful LSTMs.
+15. Lesson 15: Trump Tweets.
+16. Lesson 16: Trum - Stacking and Stateful LSTMs
 
 ## Meetup
 First meetup node:
 https://www.meetup.com/DeepSchool-io/
+
+## YouTube playlist
+Find the corresponding video tutorial here (not all notebooks have an associated video)
+https://www.youtube.com/playlist?list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz
 
 ### Notes
 <a name="myfootnote1">1</a>: Refer to this [Dockerfile](https://github.com/sachinruk/Dockerfiles/blob/master/ML_class/Dockerfile) and [this](https://github.com/sachinruk/Dockerfiles/blob/master/DS_base/Dockerfile) for information on how the docker image was built.
