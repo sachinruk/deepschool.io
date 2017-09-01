@@ -1,5 +1,5 @@
 # Cheat Sheet
-![tiger](./images/tiger.jpg)
+![konami](./images/konami2.png)
 
 ## Using Jupyter Notebooks
 - shift+enter: run cell
