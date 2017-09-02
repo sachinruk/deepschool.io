@@ -37,9 +37,10 @@ The lessons will cover the fundamentals of deep learning.
 12. Lesson 12: CNNs and BatchNormalisation (CIFAR10 dataset)
 13. Lesson 13: Transfer Learning (Dogs vs Cats dataset)
 #### Advanced Topics
-14. Lesson 14: LSTMs - Shakespeare
-15. Lesson 15: Trump Tweets.
-16. Lesson 16: Trum - Stacking and Stateful LSTMs
+14. Lesson 14: LSTMs - Sentiment analysis
+15. Lesson 15: LSTMs - Shakespeare
+16. Lesson 16: Trump Tweets.
+17. Lesson 17: Trump - Stacking and Stateful LSTMs
 
 ## Meetup
 First meetup node:
