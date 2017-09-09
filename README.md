@@ -16,6 +16,7 @@ cd deepschool.io
 docker-compose up --build
 ```
 3. Now go to `localhost:9000` on your browser to start using the jupyter notebooks.
+4. (Optional) If you are on a mac/windows some of the examples may not work because the docker image may run out of memory. Hence under preferences in docker there is the option to increase the allocated memory. I have set it to 8GB. Run `docker-compose up` again if you reset memory.
 
 ### Contents
 The lessons will cover the fundamentals of deep learning.
@@ -37,10 +38,10 @@ The lessons will cover the fundamentals of deep learning.
 12. Lesson 12: CNNs and BatchNormalisation (CIFAR10 dataset)
 13. Lesson 13: Transfer Learning (Dogs vs Cats dataset)
 #### Advanced Topics
-14. Lesson 14: LSTMs - Sentiment analysis
-15. Lesson 15: LSTMs - Shakespeare
-16. Lesson 16: Trump Tweets.
-17. Lesson 17: Trump - Stacking and Stateful LSTMs
+14. Lesson 14: LSTMs - Sentiment analysis.
+15. Lesson 15: LSTMs - Shakespeare.
+16. Lesson 16: LSTMs - Trump Tweets.
+17. Lesson 17: Trump - Stacking and Stateful LSTMs.
 
 ## Meetup
 First meetup node:
