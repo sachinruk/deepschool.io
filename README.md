@@ -42,6 +42,12 @@ The lessons will cover the fundamentals of deep learning.
 15. Lesson 15: LSTMs - Shakespeare.
 16. Lesson 16: LSTMs - Trump Tweets.
 17. Lesson 17: Trump - Stacking and Stateful LSTMs.
+18. Lesson 18: Fake News Classifier
+
+## Support
+You can ask questions and join the development discussion:
+- On the [DeepSchool-io Google group](https://groups.google.com/forum/#!forum/deepschoolio). **Long detailed questions go here**.
+- On the DeepSchool-io Slack channel. Use [this link](https://intense-waters-64607.herokuapp.com/) to request an invitation to the channel.
 
 ## Meetup
 First meetup node:
