@@ -1,6 +1,7 @@
 from os.path import isfile, isdir, getsize
 from tqdm import tqdm
 import zipfile
+from urllib.request import urlretrieve
 
 class DLProgress(tqdm):
     last_block = 0
