@@ -59,3 +59,13 @@ https://www.youtube.com/playlist?list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz
 
 ### Notes
 <a name="myfootnote1">1</a>: Refer to this [Dockerfile](https://github.com/sachinruk/Dockerfiles/blob/master/ML_class/Dockerfile) and [this](https://github.com/sachinruk/Dockerfiles/blob/master/DS_base/Dockerfile) for information on how the docker image was built.
+
+## Legal Issues
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 768px; height: 600px;" src="https://getyarn.io/yarn-clip/embed/c779ae67-3ca5-41d5-8721-3be43aeaa07a?autoplay=false"> 
+</iframe>
+
+## The Future
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 768px; height: 600px;" src="https://getyarn.io/yarn-clip/embed/f85a4083-cd0d-4d40-add8-9ebe74feddeb?autoplay=false"> 
+</iframe>
