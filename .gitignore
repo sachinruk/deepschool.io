@@ -6,4 +6,9 @@ catdog/
 catdog/
 *.zip
 *.tar
-
+data/
+*.gz
+*.h5
+*.json
+*.pkl
+*.csv
