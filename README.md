@@ -49,6 +49,12 @@ You can ask questions and join the development discussion:
 - On the [DeepSchool-io Google group](https://groups.google.com/forum/#!forum/deepschoolio). **Long detailed questions go here**.
 - On the DeepSchool-io Slack channel. Use [this link](https://intense-waters-64607.herokuapp.com/) to request an invitation to the channel.
 
+## Support Us
+There's a few ways you can support this initiative:
+1. Right now this is very much a self funded project. If you wish to see more and more high quality tutorials and videos support us at: https://www.patreon.com/deepschoolio
+2. Subscribe to our [YouTube channel here](http://www.youtube.com/user/sachinabey?sub_confirmation=1).
+3. Star this repository and share it!
+
 ## Meetup
 First meetup node:
 https://www.meetup.com/DeepSchool-io/
