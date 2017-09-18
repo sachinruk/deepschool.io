@@ -18,6 +18,31 @@ docker-compose up --build
 3. Now go to `localhost:9000` on your browser to start using the jupyter notebooks.
 4. (Optional) If you are on a mac/windows some of the examples may not work because the docker image may run out of memory. Hence under preferences in docker there is the option to increase the allocated memory. I have set it to 8GB. Run `docker-compose up` again if you reset memory.
 
+### Additional instructions for Windows users
+
+1. Enable the port 9000 
+2. Share the folder where you have downloaded the repo.
+Open a terminal with bash support:
+* Mount the folder on the VM:
+```
+"/C/Program Files/Oracle/VirtualBox/VBoxManage" sharedfolder add default -name deepschool -hostpath d:/github/deepschool.io --automount
+```
+* Access the virtual image 
+```
+sudo-machine ssh default
+```
+* Create the folder:
+```
+sudo mkdir /deep_school 
+```
+* Mount the shared folder into the container
+```
+sudo mount -t vboxsf deepschool /deep_school
+```
+* When you want to launch the container:
+docker run -v /deep_school:/notebook -p 9000:8888 deepschoolio_app
+
+
 ### Contents
 The lessons will cover the fundamentals of deep learning.
 
