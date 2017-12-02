@@ -15,7 +15,7 @@
 ```
 git clone https://github.com/sachinruk/deepschool.io.git
 cd deepschool.io
-docker-compose up --build
+bash run.sh
 ```
 3. Now go to `localhost:9000` on your browser to start using the jupyter notebooks.
 4. (Optional) If you are on a mac/windows some of the examples may not work because the docker image may run out of memory. Hence under preferences in docker there is the option to increase the allocated memory. I have set it to 8GB. Run `docker-compose up` again if you reset memory.
