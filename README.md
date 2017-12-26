@@ -2,12 +2,15 @@
 <img  src="https://dl.dropboxusercontent.com/s/5kubbg4bvz0idwn/high_resolution.jpg" alt="logo" style="width: 200px;"/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master?filepath=notebooks%2FIndex.ipynb)
 ### Goals
 1. Make Deep Learning easier (minimal code).
 2. Minimise required mathematics.
 3. Make it practical (runs on laptops).
 4. Open Source Deep Learning Learning.
+
+### Binder
+Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
 
 ### Installation
 1. Install Docker https://www.docker.com/
