@@ -2,7 +2,7 @@
 <img  src="https://dl.dropboxusercontent.com/s/5kubbg4bvz0idwn/high_resolution.jpg" alt="logo" style="width: 200px;"/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master?filepath=notebooks%2FIndex.ipynb)
 ### Goals
 1. Make Deep Learning easier (minimal code).
 2. Minimise required mathematics.
@@ -14,6 +14,9 @@ There's a few ways you can support this initiative:
 1. Right now this is very much a self funded project. If you wish to see more and more high quality tutorials and videos support us at: https://www.patreon.com/deepschoolio
 2. Subscribe to our [YouTube channel here](http://www.youtube.com/user/sachinabey?sub_confirmation=1).
 3. Star this repository and share it!
+
+### Binder
+Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
 
 ### Installation
 1. Install Docker https://www.docker.com/
