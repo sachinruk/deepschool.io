@@ -1,5 +1,5 @@
 # DeepSchool.io
-<img  src="https://dl.dropboxusercontent.com/s/5kubbg4bvz0idwn/high_resolution_small.jpg" alt="logo" style="width: 200px;"/>
+<img  src="https://dl.dropboxusercontent.com/s/5kubbg4bvz0idwn/high_resolution_small.jpg" alt="logo" style="max-width:30%;"/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
