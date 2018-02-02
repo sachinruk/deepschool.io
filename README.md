@@ -2,7 +2,7 @@
 <img  src="https://dl.dropboxusercontent.com/s/5kubbg4bvz0idwn/high_resolution.jpg" alt="logo" style="width: 200px;"/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master?filepath=notebooks%2FIndex.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
 ### Goals
 1. Make Deep Learning easier (minimal code).
 2. Minimise required mathematics.
