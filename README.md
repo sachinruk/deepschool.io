@@ -1,5 +1,5 @@
 # DeepSchool.io
-<img  src="https://dl.dropboxusercontent.com/s/5kubbg4bvz0idwn/high_resolution.jpg" alt="logo" style="width: 200px;"/>
+<img  src="https://dl.dropboxusercontent.com/s/5kubbg4bvz0idwn/high_resolution_small.jpg" alt="logo" style="width: 200px;"/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
@@ -8,6 +8,8 @@
 2. Minimise required mathematics.
 3. Make it practical (runs on laptops).
 4. Open Source Deep Learning Learning.
+5. Grow a collaborating practical community around DL.
+6. Memes: No seriously. Make DL fun and interactive, this means more Trump tweets.
 
 ## Support Us
 There's a few ways you can support this initiative:
@@ -15,10 +17,8 @@ There's a few ways you can support this initiative:
 2. Subscribe to our [YouTube channel here](http://www.youtube.com/user/sachinabey?sub_confirmation=1).
 3. Star this repository and share it!
 
-### Binder
-Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
-
 ### Installation
+If you are a beginner (haven't done CNNs yet) simply click [this link](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master) instead of following the installation comands below. It launches a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
 1. Install Docker https://www.docker.com/
 2. Use the following commands to run from docker<sup>[1](#myfootnote1)</sup>.
 ```
@@ -27,7 +27,7 @@ cd deepschool.io
 bash run.sh
 ```
 3. Now go to `localhost:9000` on your browser to start using the jupyter notebooks.
-4. (Optional) If you are on a mac/windows some of the examples may not work because the docker image may run out of memory. Hence under preferences in docker there is the option to increase the allocated memory. I have set it to 8GB. Run `docker-compose up` again if you reset memory.
+4. (Optional) If you are on a mac/windows some of the examples may not work because the docker image may run out of memory. Hence under preferences in docker there is the option to increase the allocated memory. I have set it to 8GB. Run `bash run.sh` again if you reset memory.
 
 See [here](./misc/windows_instructions.md) for installing on windows.
 
