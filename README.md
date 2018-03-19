@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
-### Goals
+## Goals
 1. Make Deep Learning easier (minimal code).
 2. Minimise required mathematics.
 3. Make it practical (runs on laptops).
@@ -17,7 +17,7 @@ There's a few ways you can support this initiative:
 2. Subscribe to our [YouTube channel here](http://www.youtube.com/user/sachinabey?sub_confirmation=1).
 3. Star this repository and share it!
 
-### Installation
+## Installation
 If you are a beginner (haven't done CNNs yet) simply click [this link](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master) instead of following the installation comands below. It launches a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
 1. Install Docker https://www.docker.com/
 2. Use the following commands to run from docker<sup>[1](#myfootnote1)</sup>.
@@ -31,14 +31,14 @@ bash run.sh
 
 See [here](./misc/windows_instructions.md) for installing on windows.
 
-### Contents
+## Contents
 0. Lesson 0: Introduction to regression.
 1. Lesson 1: Penalising weights to fit better (scikit learn intro)
-#### Mathematics (optional)
+### Mathematics (optional)
 2. Lesson 2: Gradient Descent. Using basic optimisation methods.
 3. Lesson 3: Tensorflow intro: zero layer hidden networks (i.e. normal regression).
 4. Lesson 4: Tensorflow hidden layer introduction.
-#### Deep Learning
+### Deep Learning
 5. Lesson 5: Using Keras to simplify multi layer neural nets.
 6. Lesson 6: Embeddings to deal with categorical data. (Keras)
 7. Lesson 7: Word2Vec. Embeddings to visualise words. (Tensorflow)
@@ -48,7 +48,7 @@ See [here](./misc/windows_instructions.md) for installing on windows.
 11. Lesson 11: Convolutional Neural Nets (MNIST dataset)
 12. Lesson 12: CNNs and BatchNormalisation (CIFAR10 dataset)
 13. Lesson 13: Transfer Learning (Dogs vs Cats dataset)
-#### Advanced Topics
+### Advanced Topics
 14. Lesson 14: LSTMs - Sentiment analysis.
 15. Lesson 15: LSTMs - Shakespeare.
 16. Lesson 16: LSTMs - Trump Tweets.
@@ -68,5 +68,5 @@ https://www.meetup.com/DeepSchool-io/
 Find the corresponding video tutorial here (not all notebooks have an associated video)
 https://www.youtube.com/playlist?list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz
 
-### Notes
+## Notes
 <a name="myfootnote1">1</a>: Refer to this [Dockerfile](https://github.com/sachinruk/Dockerfiles/blob/master/ML_class/Dockerfile) and [this](https://github.com/sachinruk/Dockerfiles/blob/master/DS_base/Dockerfile) for information on how the docker image was built.
