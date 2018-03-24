@@ -17,6 +17,12 @@ There's a few ways you can support this initiative:
 2. Subscribe to our [YouTube channel here](http://www.youtube.com/user/sachinabey?sub_confirmation=1).
 3. Star this repository and share it!
 
+## Contents
+The following contents are each contained within a folder:
+1. Data Science (eg. Pandas)
+2. Deep Learning (Keras)
+3. Bayesian Learning (PyMC3)
+
 ## Installation
 If you are a beginner (haven't done CNNs yet) simply click [this link](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master) instead of following the installation comands below. It launches a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
 1. Install Docker https://www.docker.com/
@@ -30,30 +36,6 @@ bash run.sh
 4. (Optional) If you are on a mac/windows some of the examples may not work because the docker image may run out of memory. Hence under preferences in docker there is the option to increase the allocated memory. I have set it to 8GB. Run `bash run.sh` again if you reset memory.
 
 See [here](./misc/windows_instructions.md) for installing on windows.
-
-## Contents
-0. Lesson 0: Introduction to regression.
-1. Lesson 1: Penalising weights to fit better (scikit learn intro)
-### Mathematics (optional)
-2. Lesson 2: Gradient Descent. Using basic optimisation methods.
-3. Lesson 3: Tensorflow intro: zero layer hidden networks (i.e. normal regression).
-4. Lesson 4: Tensorflow hidden layer introduction.
-### Deep Learning
-5. Lesson 5: Using Keras to simplify multi layer neural nets.
-6. Lesson 6: Embeddings to deal with categorical data. (Keras)
-7. Lesson 7: Word2Vec. Embeddings to visualise words. (Tensorflow)
-8. Lesson 8: Application - Bike Sharing predictions
-9. Lesson 9: Choosing Number of Layers and more
-10. Lesson 10: XGBoost - A quick detour from Deep Learning
-11. Lesson 11: Convolutional Neural Nets (MNIST dataset)
-12. Lesson 12: CNNs and BatchNormalisation (CIFAR10 dataset)
-13. Lesson 13: Transfer Learning (Dogs vs Cats dataset)
-### Advanced Topics
-14. Lesson 14: LSTMs - Sentiment analysis.
-15. Lesson 15: LSTMs - Shakespeare.
-16. Lesson 16: LSTMs - Trump Tweets.
-17. Lesson 17: Trump - Stacking and Stateful LSTMs.
-18. Lesson 18: Fake News Classifier
 
 ## Support
 You can ask questions and join the development discussion:
