@@ -3,6 +3,7 @@ import sys
 import subprocess
 from subprocess import call
 
+print('Build process started')
 out = subprocess.check_output("git diff --name-only HEAD~1 HEAD".split())
 out = out.decode('ascii').split('\n')[:-1]
 dockerfiles = [files for files in out if "Dockerfile" in files]
