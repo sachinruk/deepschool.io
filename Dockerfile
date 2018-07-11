@@ -24,7 +24,7 @@ RUN conda install -y \
     pandas
 
 RUN conda config --append channels conda-forge
-
+RUN conda install feather-format -yc conda-forge
 RUN conda install -y tensorflow keras
 
 RUN conda clean --yes --tarballs --packages --source-cache
