@@ -26,11 +26,14 @@ RUN conda install -y \
 RUN conda config --append channels conda-forge
 RUN conda install feather-format -yc conda-forge
 RUN conda install -y tensorflow keras
+RUN conda install pytorch torchvision -c pytorch
+RUN conda install -y JSAnimation
 
 RUN conda clean --yes --tarballs --packages --source-cache
 
-RUN apt-get update && apt-get install -y graphviz xvfb python-opengl
+RUN apt-get update && apt-get install -y graphviz xvfb python-opengl swig
 RUN pip install graphviz xgboost
+RUN pip install gym box2d
 
 VOLUME /notebook
 WORKDIR /notebook
