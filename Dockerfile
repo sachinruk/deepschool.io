@@ -26,7 +26,6 @@ RUN conda install -y \
 RUN conda config --append channels conda-forge
 RUN conda install feather-format -yc conda-forge
 RUN conda install -y tensorflow keras
-RUN pytorch-cpu torchvision-cpu -c pytorch
 RUN conda install -y JSAnimation
 
 RUN apt-get update && apt-get install -y graphviz xvfb python-opengl swig
