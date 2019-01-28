@@ -24,23 +24,12 @@ The following contents are each contained within a folder:
 3. Bayesian Learning (PyMC3)
 
 ## Installation
-If you are a beginner (haven't done CNNs yet) simply click [this link](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master) instead of following the installation comands below. It launches a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
-1. Install Docker https://www.docker.com/
-2. Use the following commands to run from docker<sup>[1](#myfootnote1)</sup>.
-```
-git clone https://github.com/sachinruk/deepschool.io.git
-cd deepschool.io
-bash run.sh
-```
-3. Now go to `localhost:9000` on your browser to start using the jupyter notebooks.
-4. (Optional) If you are on a mac/windows some of the examples may not work because the docker image may run out of memory. Hence under preferences in docker there is the option to increase the allocated memory. I have set it to 8GB. Run `bash run.sh` again if you reset memory.
-
-See [here](./misc/windows_instructions.md) for installing on windows.
-
-## Support
-You can ask questions and join the development discussion:
-- On the [DeepSchool-io Google group](https://groups.google.com/forum/#!forum/deepschoolio). **Long detailed questions go here**.
-- On the DeepSchool-io Slack channel. Use [this link](https://intense-waters-64607.herokuapp.com/) to request an invitation to the channel.
+We run all our notebooks on google colab. In order to do this:
+1. Get a google account.
+2. Click on this [link](https://drive.google.com/open?id=1L9BPDSm6Y4jbljf5IsI102zgW49wNGem) to take you to the google Drive folder.
+3. Go to the DL-Keras folder (or any other topic that you wish to learn).
+4. Double click on the notebook and click on, 'open with colaboratory' (You need to haved signed into Google for this).
+5. Click on the 'Runtime' tab at the top and change to python3 and GPU. Now you are all good to go.
 
 ## Meetup
 First meetup node:
@@ -50,5 +39,5 @@ https://www.meetup.com/DeepSchool-io/
 Find the corresponding video tutorial here (not all notebooks have an associated video)
 https://www.youtube.com/playlist?list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz
 
-## Notes
-<a name="myfootnote1">1</a>: Refer to this [Dockerfile](https://github.com/sachinruk/Dockerfiles/blob/master/ML_class/Dockerfile) and [this](https://github.com/sachinruk/Dockerfiles/blob/master/DS_base/Dockerfile) for information on how the docker image was built.
+You can ask questions and join the development discussion:
+- On the DeepSchool-io Slack channel. Use [this link](https://intense-waters-64607.herokuapp.com/) to request an invitation to the channel.
