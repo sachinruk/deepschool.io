@@ -1,8 +1,11 @@
 # DeepSchool.io
+<!--
 <img  src="https://dl.dropboxusercontent.com/s/5kubbg4bvz0idwn/high_resolution_small.jpg" alt="logo" style="max-width:30%;"/>
-
+-->
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
+**Register for upcoming Udemy course on Pytorch [here](https://sites.google.com/view/deepschoolio/home)**
+
 ## Goals
 1. Make Deep Learning easier (minimal code).
 2. Minimise required mathematics.
