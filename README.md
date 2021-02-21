@@ -4,7 +4,7 @@
 -->
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sachinruk/deepschool.io/master)
-## [Sign up here](https://www.udemy.com/course/machine-learning-and-data-science-2021/?referralCode=E79228C7436D74315787) for Udemy Course on Machine Learning
+## [Sign up here](https://www.udemy.com/course/machine-learning-and-data-science-2021/?referralCode=E79228C7436D74315787) for Udemy Course on Machine Learning (Use code DEEPSCHOOL2021 to receive course for $15 instead of usual $99).
 
 ## **Register for upcoming Udemy course on Pytorch [here](https://sites.google.com/view/deepschoolio/home)**
 
