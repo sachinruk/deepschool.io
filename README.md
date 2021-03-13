@@ -17,7 +17,7 @@
 
 ## Support Us
 There's a few ways you can support this initiative:
-1. Right now this is very much a self funded project. If you wish to see more and more high quality tutorials and videos support us at: https://www.patreon.com/deepschoolio
+1. Sign up to the Udemy course above.
 2. Subscribe to our [YouTube channel here](http://www.youtube.com/user/sachinabey?sub_confirmation=1).
 3. Star this repository and share it!
 
